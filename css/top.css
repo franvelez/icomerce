@@ -1,0 +1,46 @@
+.top__header{
+    height: 50px;
+    width: 100%;
+   color:  red;
+  
+
+
+}
+.contenedor_bloque1{
+    display: flex;
+}
+.logo{
+    width: 200px;
+    height: 3.7rem;
+    
+}
+.buscador__search{
+    width: 300px;
+    padding: 0.5rem;
+    border: solid blueviolet 1px;
+   border-radius: 15px; 
+  outline:none ;
+  background-color: #f6f1f1;
+  font-family: 'Hanken Grotesk', sans-serif;
+
+}
+
+.seccion{
+   border-radius: 3px;
+ border: solid blueviolet 1px ;
+ padding: 4px;
+ font-family: 'Hanken Grotesk', sans-serif;
+ color: blueviolet;
+ font-weight: bold;
+
+}
+.top__buscador{
+
+    display: flex;
+   align-items: center;
+    
+}
+.fa {
+   margin-left: 10px;
+   color: blueviolet;
+}
